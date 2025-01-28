@@ -95,6 +95,8 @@ EC-CUBE 4.x 系の仕様や手順、開発Tipsに関するドキュメントを�
 修正や追記、新規ドキュメントの作成をいただく場合、以下のレポジトリからPullRequestをお送りください。
 [https://github.com/EC-CUBE/doc4.ec-cube.net](https://github.com/EC-CUBE/doc4.ec-cube.net)
 
+### [EC-CUBE4 管理・運用マニュアル](https://www.ec-cube.net/manual/ec-cube4/)
+
 ## 開発への参加
 
 EC-CUBE 4.3の不具合の修正、機能のブラッシュアップを目的として、継続的に開発を行っております。  
